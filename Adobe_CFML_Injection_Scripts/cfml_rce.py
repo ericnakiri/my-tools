@@ -397,7 +397,7 @@ def main():
     parser = argparse.ArgumentParser(description="ColdFusion Exploitation Script")
 
     # Single target modes
-    parser.add_argument("-u", "--url", required=True, help="Target URL (for single target modes)")
+    parser.add_argument("-u", "--url", help="Target URL (for single target modes)")
     parser.add_argument("-m", "--method", default="POST", help="HTTP method (GET/POST)")
     parser.add_argument("-f", "--file", help="File to read (e.g., etc/passwd)")
     parser.add_argument("-c", "--command", help="Command to execute (e.g., pwd)")
