@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfyZmzoZdRs=",
+  "success": true,
+  "projectFilePath": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\RShell_D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

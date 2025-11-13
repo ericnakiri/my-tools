@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\bin\x64\Release\PrintSpoofer.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\bin\x64\Release\PrintSpoofer.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\bin\x64\Release\PrintSpoofer.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\obj\x64\Release\PrintSpoofer.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\obj\x64\Release\PrintSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\obj\x64\Release\PrintSpoofer.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\PrintSpoofer\obj\x64\Release\PrintSpoofer.pdb

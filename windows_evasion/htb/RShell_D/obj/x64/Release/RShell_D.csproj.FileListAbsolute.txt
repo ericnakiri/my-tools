@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\RShell_D\bin\x64\Release\RShell_D.dll
+C:\Users\root\source\repos\RShell_D\bin\x64\Release\RShell_D.pdb
+C:\Users\root\source\repos\RShell_D\obj\x64\Release\RShell_D.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\RShell_D\obj\x64\Release\RShell_D.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\RShell_D\obj\x64\Release\RShell_D.dll
+C:\Users\root\source\repos\RShell_D\obj\x64\Release\RShell_D.pdb

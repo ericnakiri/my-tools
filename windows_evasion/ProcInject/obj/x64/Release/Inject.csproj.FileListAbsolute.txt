@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\bin\x64\Release\Inject.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\bin\x64\Release\Inject.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\bin\x64\Release\Inject.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\obj\x64\Release\Inject.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\obj\x64\Release\Inject.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\obj\x64\Release\Inject.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ProcInject\obj\x64\Release\Inject.pdb

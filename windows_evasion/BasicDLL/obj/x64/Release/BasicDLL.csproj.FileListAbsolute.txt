@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\bin\x64\Release\ClassLibrary1.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\bin\x64\Release\ClassLibrary1.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\obj\x64\Release\BasicDLL.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\obj\x64\Release\BasicDLL.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\obj\x64\Release\ClassLibrary1.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\BasicDLL\obj\x64\Release\ClassLibrary1.pdb

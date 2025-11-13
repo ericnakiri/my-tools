@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\bin\x64\Release\SQL.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\bin\x64\Release\SQL.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\bin\x64\Release\SQL.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\obj\x64\Release\SQL.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\obj\x64\Release\SQL.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\obj\x64\Release\SQL.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\SQL\obj\x64\Release\SQL.pdb

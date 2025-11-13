@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\bin\x64\Release\ExampleAssembly.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\bin\x64\Release\ExampleAssembly.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\obj\x64\Release\ExampleAssembly.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\obj\x64\Release\ExampleAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\obj\x64\Release\ExampleAssembly.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\ExampleAssembly\obj\x64\Release\ExampleAssembly.pdb

@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\bin\x64\Release\HexRunner.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\bin\x64\Release\HexRunner.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\bin\x64\Release\HexRunner.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\obj\x64\Release\HexRunner.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\obj\x64\Release\HexRunner.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\obj\x64\Release\HexRunner.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HexRunner\obj\x64\Release\HexRunner.pdb

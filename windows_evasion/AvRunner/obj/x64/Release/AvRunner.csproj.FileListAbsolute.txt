@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\bin\x64\Release\AvRunner.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\bin\x64\Release\AvRunner.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\bin\x64\Release\AvRunner.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\obj\x64\Release\AvRunner.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\obj\x64\Release\AvRunner.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\obj\x64\Release\AvRunner.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvRunner\obj\x64\Release\AvRunner.pdb

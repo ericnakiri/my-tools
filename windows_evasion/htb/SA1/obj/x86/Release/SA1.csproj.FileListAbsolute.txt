@@ -1,0 +1,8 @@
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\bin\x86\Release\SA1.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\bin\x86\Release\SA1.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\x86\Release\SA1.csproj.AssemblyReference.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\x86\Release\SA1.csproj.CoreCompileInputs.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\x86\Release\SA1.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\x86\Release\SA1.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\bin\x86\Release\System.Management.Automation.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\x86\Release\SA1.csproj.Up2Date

@@ -1,0 +1,13 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\obj\x64\Release\Runspace.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\obj\x64\Release\Runspace.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\obj\x64\Release\Runspace.csproj.Up2Date
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\Runspace.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\obj\x64\Release\Runspace.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\obj\x64\Release\Runspace.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\Runspace.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\Runspace.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\System.Management.Automation.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\bin\x64\Release\Runspace.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\bin\x64\Release\Runspace.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\bin\x64\Release\Runspace.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Runspace\bin\x64\Release\System.Management.Automation.dll

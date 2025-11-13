@@ -1,0 +1,7 @@
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\bin\Debug\RShell.exe.config
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\bin\Debug\RShell.exe
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\bin\Debug\RShell.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\obj\Debug\RShell.csproj.AssemblyReference.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\obj\Debug\RShell.csproj.CoreCompileInputs.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\obj\Debug\RShell.exe
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell\obj\Debug\RShell.pdb

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\RShell_D.csproj": {}
+  },
+  "projects": {
+    "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\RShell_D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\RShell_D.csproj",
+        "projectName": "RShell_D",
+        "projectPath": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\RShell_D.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\RShell_D\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\root\\source\\packages": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "DllExport": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

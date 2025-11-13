@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0AAC5-233B-4E8F-A737-E3EEC78A4D4B}|ShellcodeEncrypt\\ShellcodeEncrypt.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\shellcodeencrypt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0AAC5-233B-4E8F-A737-E3EEC78A4D4B}|ShellcodeEncrypt\\ShellcodeEncrypt.csproj|solutionrelative:shellcodeencrypt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EAAFE0-E0FB-4778-9A86-017A6E1B21B1}|HexRunner\\HexRunner.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\hexrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EAAFE0-E0FB-4778-9A86-017A6E1B21B1}|HexRunner\\HexRunner.csproj|solutionrelative:hexrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56598F1C-6D88-4994-A392-AF337ABE5777}|ExampleAssembly\\ExampleAssembly.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ExampleAssembly\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56598F1C-6D88-4994-A392-AF337ABE5777}|ExampleAssembly\\ExampleAssembly.csproj|solutionrelative:ExampleAssembly\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2F1787-E5CA-4032-AEA2-DEC1F959FC67}|Amseye\\Amseye.csproj|c:\\users\\eric\\desktop\\kali\\offsec\\pen-300\\oseptoolset\\amseye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2F1787-E5CA-4032-AEA2-DEC1F959FC67}|Amseye\\Amseye.csproj|solutionrelative:amseye\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684B2B4E-AA05-4BC3-B915-082474841696}|AvRunner\\AvRunner.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\avrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684B2B4E-AA05-4BC3-B915-082474841696}|AvRunner\\AvRunner.csproj|solutionrelative:avrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2BEC-1CBD-4A67-BC48-14DC7CF0F944}|HollowDLL\\HollowDLL.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\hollowdll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2BEC-1CBD-4A67-BC48-14DC7CF0F944}|HollowDLL\\HollowDLL.csproj|solutionrelative:hollowdll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C32D37C-6FBA-4E4F-BB84-3EC8054EE662}|Runspace\\Runspace.csproj|c:\\users\\eric\\desktop\\kali\\offsec\\pen-300\\oseptoolset\\runspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C32D37C-6FBA-4E4F-BB84-3EC8054EE662}|Runspace\\Runspace.csproj|solutionrelative:runspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88C53B-C351-4BCA-A554-8AF251B3E50E}|Sleep\\Sleep.csproj|c:\\users\\eric\\desktop\\kali\\offsec\\pen-300\\oseptoolset\\sleep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88C53B-C351-4BCA-A554-8AF251B3E50E}|Sleep\\Sleep.csproj|solutionrelative:sleep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F333804-995E-4187-AEB2-EEAE75938B33}|ProcHollow\\ProcHollow.csproj|C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ProcHollow\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F333804-995E-4187-AEB2-EEAE75938B33}|ProcHollow\\ProcHollow.csproj|solutionrelative:ProcHollow\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Sleep\\Program.cs",
+              "RelativeDocumentMoniker": "Sleep\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Sleep\\Program.cs",
+              "RelativeToolTip": "Sleep\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:01:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Runspace\\Program.cs",
+              "RelativeDocumentMoniker": "Runspace\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Runspace\\Program.cs",
+              "RelativeToolTip": "Runspace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:01:24.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\HollowDLL\\Class1.cs",
+              "RelativeDocumentMoniker": "HollowDLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\HollowDLL\\Class1.cs",
+              "RelativeToolTip": "HollowDLL\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:52:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\AvRunner\\Program.cs",
+              "RelativeDocumentMoniker": "AvRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\AvRunner\\Program.cs",
+              "RelativeToolTip": "AvRunner\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:52:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Amseye\\Program.cs",
+              "RelativeDocumentMoniker": "Amseye\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\Amseye\\Program.cs",
+              "RelativeToolTip": "Amseye\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:48:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ExampleAssembly\\TestClass.cs",
+              "RelativeDocumentMoniker": "ExampleAssembly\\TestClass.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ExampleAssembly\\TestClass.cs",
+              "RelativeToolTip": "ExampleAssembly\\TestClass.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:26:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\HexRunner\\Program.cs",
+              "RelativeDocumentMoniker": "HexRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\HexRunner\\Program.cs",
+              "RelativeToolTip": "HexRunner\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:37:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ShellcodeEncrypt\\Program.cs",
+              "RelativeDocumentMoniker": "ShellcodeEncrypt\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ShellcodeEncrypt\\Program.cs",
+              "RelativeToolTip": "ShellcodeEncrypt\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:31:29.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ProcHollow\\Program.cs",
+              "RelativeDocumentMoniker": "ProcHollow\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\Kali\\OffSec\\PEN-300\\OSEPToolset\\ProcHollow\\Program.cs",
+              "RelativeToolTip": "ProcHollow\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwHkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:52:35.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\bin\x64\Release\ClassLibrary2.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\bin\x64\Release\ClassLibrary2.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\obj\Release\AvDLL.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\obj\Release\AvDLL.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\obj\Release\ClassLibrary2.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\AvDLL\obj\Release\ClassLibrary2.pdb

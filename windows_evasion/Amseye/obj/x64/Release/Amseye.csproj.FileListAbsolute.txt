@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\bin\x64\Release\AmsInterface.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\bin\x64\Release\AmsInterface.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\obj\x64\Release\Amseye.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\obj\x64\Release\Amseye.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\obj\x64\Release\AmsInterface.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Amseye\obj\x64\Release\AmsInterface.pdb

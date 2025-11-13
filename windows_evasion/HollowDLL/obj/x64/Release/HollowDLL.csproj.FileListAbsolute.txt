@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\bin\x64\Release\HollowLibrary.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\bin\x64\Release\HollowLibrary.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\obj\x64\Release\HollowDLL.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\obj\x64\Release\HollowDLL.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\obj\x64\Release\HollowLibrary.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\HollowDLL\obj\x64\Release\HollowLibrary.pdb

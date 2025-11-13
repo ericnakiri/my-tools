@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\bin\x64\Release\MiniDump.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\bin\x64\Release\MiniDump.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\bin\x64\Release\MiniDump.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\obj\x64\Release\MiniDump.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\obj\x64\Release\MiniDump.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\obj\x64\Release\MiniDump.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\MiniDump\obj\x64\Release\MiniDump.pdb

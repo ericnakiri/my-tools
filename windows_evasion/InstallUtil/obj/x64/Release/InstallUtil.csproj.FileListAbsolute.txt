@@ -1,0 +1,9 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\bin\x64\Release\InstallUtil.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\bin\x64\Release\InstallUtil.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\bin\x64\Release\InstallUtil.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\bin\x64\Release\System.Management.Automation.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\obj\x64\Release\InstallUtil.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\obj\x64\Release\InstallUtil.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\obj\x64\Release\InstallU.200E4BEE.Up2Date
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\obj\x64\Release\InstallUtil.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\InstallUtil\obj\x64\Release\InstallUtil.pdb

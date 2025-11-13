@@ -1,0 +1,7 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\bin\x64\Release\Lateral.exe.config
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\bin\x64\Release\Lateral.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\bin\x64\Release\Lateral.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\obj\x64\Release\Lateral.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\obj\x64\Release\Lateral.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\obj\x64\Release\Lateral.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Lateral\obj\x64\Release\Lateral.pdb

@@ -1,0 +1,6 @@
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\bin\Debug\SA1.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\bin\Debug\SA1.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\Debug\SA1.csproj.AssemblyReference.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\Debug\SA1.csproj.CoreCompileInputs.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\Debug\SA1.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\SA1\obj\Debug\SA1.pdb

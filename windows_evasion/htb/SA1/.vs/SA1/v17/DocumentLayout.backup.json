@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\SA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57706565-D2BD-4F0F-A7A7-A2339232CA07}|SA1.csproj|\\\\majora\\kali\\htb\\modules\\win_evasion\\tools\\sa1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\SA1\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "\\\\MAJORA\\Kali\\HTB\\Modules\\Win_Evasion\\tools\\SA1\\Class1.cs*",
+              "RelativeToolTip": "Class1.cs*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAK4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:30:07.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

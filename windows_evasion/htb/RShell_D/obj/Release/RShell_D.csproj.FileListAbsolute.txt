@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\RShell_D\bin\Release\RShell_D.dll
+C:\Users\root\source\repos\RShell_D\bin\Release\RShell_D.pdb
+C:\Users\root\source\repos\RShell_D\obj\Release\RShell_D.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\RShell_D\obj\Release\RShell_D.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\RShell_D\obj\Release\RShell_D.dll
+C:\Users\root\source\repos\RShell_D\obj\Release\RShell_D.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\bin\Release\RShell_D.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\bin\Release\RShell_D.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\obj\Release\RShell_D.csproj.AssemblyReference.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\obj\Release\RShell_D.csproj.CoreCompileInputs.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\obj\Release\RShell_D.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\RShell_D\obj\Release\RShell_D.pdb

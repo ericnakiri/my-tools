@@ -1,0 +1,9 @@
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\bin\x64\Release\CLMBypass.exe.config
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\bin\x64\Release\CLMBypass.exe
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\bin\x64\Release\CLMBypass.pdb
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\bin\x64\Release\System.Management.Automation.dll
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\obj\x64\Release\CLMBypass.csproj.AssemblyReference.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\obj\x64\Release\CLMBypass.csproj.CoreCompileInputs.cache
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\obj\x64\Release\CLMBypass.csproj.Up2Date
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\obj\x64\Release\CLMBypass.exe
+\\MAJORA\Kali\HTB\Modules\Win_Evasion\tools\CLMBypass\obj\x64\Release\CLMBypass.pdb

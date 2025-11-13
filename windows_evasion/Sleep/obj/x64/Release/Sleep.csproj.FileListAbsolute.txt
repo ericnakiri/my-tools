@@ -1,0 +1,6 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\bin\x64\Release\Sleep.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\bin\x64\Release\Sleep.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\obj\x64\Release\Sleep.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\obj\x64\Release\Sleep.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\obj\x64\Release\Sleep.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\Sleep\obj\x64\Release\Sleep.pdb

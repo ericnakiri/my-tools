@@ -1,0 +1,10 @@
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\bin\x64\Release\DotNetToJScript.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\bin\x64\Release\DotNetToJScript.pdb
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\bin\x64\Release\NDesk.Options.dll
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.Properties.Resources.resources
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetTo.668FD979.Up2Date
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.exe
+C:\Users\Eric\Desktop\Kali\OffSec\PEN-300\OSEPToolset\DotNetToJScript\obj\Release\DotNetToJScript.pdb
